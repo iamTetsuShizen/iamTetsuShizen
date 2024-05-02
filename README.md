@@ -1,4 +1,8 @@
-<h1 align="center"> Hi there 👋 My name is Adrian </h1>
+<h1 align="center"> Hi there 👋 </h1>
+
+<p align="justify">Im a Catalonia based Fullstack Software Engineer who likes :video_game: and :tent:</p>
+
+
 
 
 <!--
