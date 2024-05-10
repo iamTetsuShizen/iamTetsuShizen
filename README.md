@@ -4,6 +4,9 @@
 
 <p align="justify">Here you will find the projects I'm working on, sometimes public, sometimes private, either way I would greatly apreciate any feedback on my public repos! </p>
 
+<h2 align="center"> About me: </h2>
+
+
 
 
 
