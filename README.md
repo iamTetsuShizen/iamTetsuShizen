@@ -8,6 +8,13 @@
 
 ```javascript
 const adri = {
+  name: "Adrian",
+  surname: "Peso"
+  gender: "male",
+  age: 28,
+  hobbies: ["videogames", "nature", "photography", "longboarding", "climbing", "finding new music"],
+  techStack: ["HTML5", "CSS3", "JS", "Vue.js", "React", "Jest", "Node.js", "PHP", "Laravel", "Symfony", "PHPUnit", "AGILE", "SEO", "UX", "GIT", "SOLID", "Design Patterns"],
+  linkedIN: "https://www.linkedin.com/in/adrian-peso-serrano/"
 };
 ```
 
