@@ -9,7 +9,7 @@
 ```javascript
 const adri = {
   name: "Adrian",
-  surname: "Peso"
+  surname: "Peso",
   gender: "male",
   age: 28,
   hobbies: ["videogames", "nature", "photography", "longboarding", "climbing", "finding new music"],
