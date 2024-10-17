@@ -1,7 +1,5 @@
 <h1 align="center"> Welcome to my Github profile 👋 </h1>
 
-<p align="justify">Im a Catalonia based Fullstack Software Engineer who likes :video_game: and :tent:</p>
-
 <p align="justify">Here you will find the projects I'm working on, sometimes public, sometimes private, either way I would greatly apreciate any feedback on my public repos! </p>
 
 <h2 align="center"> About me: </h2>
